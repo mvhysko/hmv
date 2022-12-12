@@ -13,7 +13,7 @@
   "author": "Hysko MV",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "^14.3.1",
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^0.17.4"
